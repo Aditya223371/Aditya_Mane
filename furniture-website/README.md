@@ -1,6 +1,6 @@
-# MAISON — Luxury Furniture Website (PHP)
+# MANE FURNITURE — Luxury Furniture Website (PHP)
 ## Complete Project Documentation
-
+### Aditya Rajendra Mane
 ---
 
 ## 📁 Project Structure
